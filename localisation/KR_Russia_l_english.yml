@@ -711,11 +711,11 @@ russia.5.d:0 "수도를 가로질러 총소리가 울렸습니다. 러시아 공
 russia.5.a:0 "세계를 뒤흔들 총격이군."
 
 russia.6.t:0 "케렌스키 암살 사건의 여파"
-russia.6.d:0 "Kerenskiy may have been hated by many, but it is only when he died did it become clear how much Russia needed him. The coalition between Kadets and Socialist Revolutionaties has begun to dissolve immediately. Kerenskiy's right hand man, Viktor Chernov, who had usually handled the nitty gritty of coalition building while the President acted as the public face of the party, has suddenly found his job to be a lot harder. All while the right wing forces in the Senate and the Duma coalesce and gather their forces - their soon-to-be savior is Grand Duke Dmitriy, who has all the material to be a fine President in their eyes. Chernov's only hope is that the Left opposition, the Mensheviks and radical socialists represented by Irakliy Tsereteli and Aleksandr Shliapnikov, will put rivalries aside and join forces with the hated SRs and Kadets.\n\nAnti-democratic forces plot in the shadows, too. Pyetr Vrangel, the Black Baron, and Field Marshal Lavr Kornilov have independently drawn their plans on seizing control of the state for this exact occasion. They have no reason to play ball with the parliamentarians in Moscow now that Kerenskiy is gone, after all...\n\nWhatever may be the outcome of the January Crisis, it is bound to leave a lasting impact upon Russian history."
-russia.6.a:0 "The Mensheviks and Socialists agree to a coalition of the plural left."
-russia.6.b:0 "Chernov's coalition falls - the parliamentary right elects Dmitriy Romanov."
-russia.6.c:0 "Baron Vrangel establishes martial law and strongarms the Duma in a bloodless putsch."
-russia.6.e:0 "Kornilov storms Moscow, the streets run red with blood!"
+russia.6.d:0 "케렌스키는 생전 많은 사람들로부터 미움을 받았지만, 그가 사망했을 때 비로소 러시아는 그가 얼마나 필요한지 깨달았습니다. 입헌민주당과 사회혁명당의 연정은 즉시 해체되기 시작했습니다. 케렌스키의 오른팔인 빅토르 체르노프는 대통령이 당의 얼굴마담 역할을 하는 동안 연정의 실무를 맡아왔으나, 그의 사후 그의 자리를 계속 지키기 어려워졌습니다. 상원과 두마의 우파 세력이 연합하여 병력을 모으고 있고, 훌륭한 대통령의 자질을 모두 갖춘 드미트리 대공이 그들의 구원자가 되어줄 것입니다. 체르노프의 유일한 희망은 이라클리 체레텔리와 알렉산드르 슐리아프니코프로 대표되는 좌파 야당, 멘셰비키파와 급진사회주의자들이 사회혁명당, 입헌혁명당과 힘을 합치는 것으로, 서로간의 라이벌 의식과 뿌리깊은 증오에도 그들은 그렇게 해야만 할 것입니다.\n\n반민주주의 세력도 그림자 뒤에서 음모를 꾸미고 있습니다. 케렌스키가 떠나면서, 모스크바에서 의원들과 공놀이를 할 까닭을 잃은 검은 남작 표트르 브란겔과 라브르 코르닐로프 원수 또한 독립적으로 확실한 때에 정부를 장악할 계획을 꾸미고 있습니다...\n\n1월 위기의 결과가 어떻든 그것은 러시아 역사에 지속적인 영향을 미치게 될 것입니다."
+russia.6.a:0 "멘셰비키와 사회주의자들이 좌파 연합을 이루었다."
+russia.6.b:0 "체르노프의 연합이 무너졌다 - 의회의 우파들이 드미트리 로마노프를 선출했다."
+russia.6.c:0 "브란겔 남작이 계엄령을 선포하고 두마를 철권으로 통제할 것이다."
+russia.6.e:0 "코르닐로프가 모스크바를 기습하였고, 거리가 피로 물들었다!"
 
 russia.7.t:0 "수상 임명"
 russia.7.d:0 "대통령에 당선된 드미트리 로마노프 대공은 불안정한 우파 연정에도 불구하고 대규모 연합을 지휘하고 있습니다. 이미 귀족들과 기업 로비스트들은 그에게 그의 다음 행보에 대해 조언해 주겠다고 접근했고 드미트리는 정치적 경험이 거의 없기 때문에 기꺼이 귀를 기울이려고 하고 있습니다. 여러 명의 후보가 테이블에 올려져 있고 각 후보들은 각자 자신의 지지자들을 데려왔습니다.."
@@ -1318,8 +1318,8 @@ rusd.151.t:0 "고요해진 상원"
 rusd.151.d:0 "드미트리 파블로비치 로마노프 대공과 함께 러시아의 가장 부유한 산업가, 옛 귀족 정치 및 러시아 정교회로 대표되는 상원은 안타깝게도 러시아를 갉아먹는 위기를 막아내지 못했습니다. 문제는 드미트리 대공이 항상 상원의 충고에 귀를 기울이지 않는다는 것이고 이는 대공과 국가 당국 간의 오해로 이어지는 경우가 많습니다. 그러나 러시아가 회복할 수 있는 적절한 방법은 여전히 존재합니다."
 rusd.151.a:0 "바라던 바다."
 
-rusd.152.t:0 "The National Bloc"
-rusd.152.d:0 "Dmitriy Romanov has yet to get accustomed to his new duties and powers, which means that a large clique is starting to gather around him in hope that they will be able to use him to their interest. After negotiations, the Octobrists and a plethora of smaller political parties have chosen to join forces, gathering to a tight political alliance named the National Bloc. Its political program calls for extensive political and social reform to maintain stability and prevent the growth of radical left wing forces, it is funded by several industrialist lobbies and supported by aristocrats.\n\nThe National Bloc has thrown its full weight behind President Romanov, granting him and his government a stable base of supporters in both houses of Parliament."
+rusd.152.t:0 "국가연합"
+rusd.152.d:0 "드미트리 로마노프는 아직 그의 새로운 의무와 권력에 익숙해지지 않았는데, 그 틈을 타 여러 파벌들이 그를 그들의 뜻대로 움직이기 위해 그의 주변에 모여들기 시작했습니다. 협상이 끝난 후, 10월 17일 연합과 다수의 소규모 정당들이 힘을 합치기로 선택했고, 국가연합이란 이름의 긴밀한 정치적 동맹을 형성했습니다. 그들은 러시아의 안정을 유지하고 급진적인 좌익 세력의 성장을 막기 위한 광범위한 정치적, 사회적 개혁을 주장하고 있고, 그들은 또한 몇몇 기업가 로비스트들의 자금 지원과 귀족들의 지지를 받고 있습니다.\n\n국가연합은 로마노프 대통령의 뒤를 받쳐, 그와 그의 정부가 의회의 양원 모두에서 안정적인 지지를 받도록 할 것입니다."
 rusd.152.a:0 "이제 정상으로 돌아갈 때다."
 
 rusd.153.t:0 "드미트리 로마노프가 권력을 장악하다"
